@@ -1,0 +1,18 @@
+{
+  "Version": "1",
+  "Update": "https://paste.anasor.com/paste.php?raw&id=350782",
+  "appname": "CYBERPLUS",
+  "fundoonline": "https://i.ibb.co/zhk2jv4/mar-o.jpg",
+  "logoonline": "https://i.ibb.co/8sVshL4/logo.png",
+  "ImgMenu": "https://i.ibb.co/Vg8PLvK/image.jpg",
+  "ImgLogs": "https://i.ibb.co/mX0wcL4/registro.png",
+  "ImgCheck": "https://i.ibb.co/cwwpBgL/informacoes.png",
+  'ImgUser': "https://telegra.ph/file/51cfbf308fa6a293d6f7b.png",
+  'ImgPass': "https://telegra.ph/file/0aae4b5cc75034f04611d.png",
+  "ImgVersion": "https://telegra.ph/file/0aae4b5cc75034f04611d.png",
+  "ColorOne": "#00000000",
+  "ColorTwo": "#7A333333",
+  "Botãoiniciar": "#0033FF",
+  "ColorDialogs": "#84ffffff",
+  "ColorButtons": "#333333"
+}
