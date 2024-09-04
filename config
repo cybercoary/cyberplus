@@ -6,7 +6,7 @@
   "Site":"https://atlas.cybercoari.com.br",
   "Servers": [
     {
-         "ServerIP":"br.cybercoari.com.br", 
+         "ServerIP":"cybercoari.app.br", 
          "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
