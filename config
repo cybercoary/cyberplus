@@ -1,5 +1,5 @@
 {
-  "Version":"8",
+  "Version":"9",
   "Update":"https://raw.githubusercontent.com/cybercoary/cyberplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/cybercoari",
@@ -20,7 +20,7 @@
       },    
       {
          "Name":"TIM FRONT EXPIRADO 1",
-         "ServerIP":"cybercoari.app.br", 
+         "ServerIP":"cdn6.cdntlcomputingbr.shop", 
          "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
