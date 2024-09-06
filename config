@@ -26,7 +26,7 @@
          "USER":"",
          "PASS":"",
          "FLAG":"https://i.ibb.co/QQzktS7/tim.png",
-         "Payload":"PUT / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET /app1705 HTTP/1.1[lf]Host: cdn6.cdntlcomputingbr.shop[lf]Backend: app1705 [lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+         "Payload":"PUT / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]PUT /app1705 HTTP/1.1[lf]Host: cdn6.cdntlcomputingbr.shop [lf]Backend: app1705 [lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
          "ProxyIP":"launches.appsflyer.com",
          "ProxyPort":"80",
          "Info":"Proxy"
