@@ -1,5 +1,5 @@
 {
-  "Version":"7",
+  "Version":"8",
   "Update":"https://raw.githubusercontent.com/cybercoary/cyberplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/cybercoari",
@@ -14,19 +14,19 @@
          "Name":"VIVO SECURITY 1",
          "FLAG":"https://i.ibb.co/Y7gL2tr/vivo.png",
          "Payload":"[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41[crlf][crlf]",
-         "ProxyIP":"br.cybercoari.com.br",
+         "ProxyIP":"cybercoari.app.br",
          "ProxyPort":"80",
          "Info":"Proxy"
       },    
       {
          "Name":"TIM FRONT EXPIRADO 1",
-         "ServerIP":"cybercoari.com.br", 
+         "ServerIP":"cybercoari.app.br", 
          "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
          "FLAG":"https://i.ibb.co/QQzktS7/tim.png",
-         "Payload":"PUT / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET /app1705 HTTP/1.1[lf]Host: [rotate=cdn6.cdntlcomputingbr.shop;cdn7.cdntlcomputingbr.shop;cdn8.cdntlcomputingbr.shop;cdn9.cdntlcomputingbr.shop;cdn10.cdntlcomputingbr.shop;cdn11.cdntlcomputingbr.shop;cdn12.cdntlcomputingbr.shop;cdn13.cdntlcomputingbr.shop;cdn14.cdntlcomputingbr.shop;cdn15.cdntlcomputingbr.shop;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][lf]Backend: app1705[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+         "Payload":"PUT / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET /app1705 HTTP/1.1[lf]Host: [rotate=cdn6.cdntlcomputingbr.shop;cdn7.cdntlcomputingbr.shop;cdn8.cdntlcomputingbr.shop;cdn9.cdntlcomputingbr.shop;cdn10.cdntlcomputingbr.shop;cdn11.cdntlcomputingbr.shop;cdn12.cdntlcomputingbr.shop;cdn13.cdntlcomputingbr.shop;cdn14.cdntlcomputingbr.shop;cdn15.cdntlcomputingbr.shop;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][lf]Backend: app1705 [lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
          "ProxyIP":"launches.appsflyer.com",
          "ProxyPort":"80",
          "Info":"Proxy"
@@ -35,12 +35,12 @@
          "Name":"TIM EXPIRADO 2",
          "FLAG":"https://i.ibb.co/QQzktS7/tim.png",
          "Payload":"HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=vivo.com.br;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
-         "ServerIP":"br.cybercoari.com.br", 
+         "ServerIP":"cybercoari.app.br", 
          "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
-         "ProxyIP":"cybercoari.com.br",
+         "ProxyIP":"cybercoari.app.br",
          "ProxyPort":"80",
          "Info":"Proxy"
       }
