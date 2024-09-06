@@ -26,8 +26,8 @@
          "USER":"",
          "PASS":"",
          "FLAG":"https://i.ibb.co/QQzktS7/tim.png",
-         "Payload":"PUT / HTTP/1.1[crlf]Host: tim.com.br[lf] [lf]PUT / HTTP/1.1[lf]Host: [rotate=d27fvalvozgpwz.cloudfront.net;d8vfdjhjjqnp0.cloudfront.net][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-         "ProxyIP":"timlive.tim.com.br#checkout.timlive.tim.com.br#launches.appsflyer.com",
+         "Payload":"PUT / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET /app1705 HTTP/1.1[lf]Host: [rotate=cdn6.cdntlcomputingbr.shop;cdn7.cdntlcomputingbr.shop;cdn8.cdntlcomputingbr.shop;cdn9.cdntlcomputingbr.shop;cdn10.cdntlcomputingbr.shop;cdn11.cdntlcomputingbr.shop;cdn12.cdntlcomputingbr.shop;cdn13.cdntlcomputingbr.shop;cdn14.cdntlcomputingbr.shop;cdn15.cdntlcomputingbr.shop;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop][lf]Backend: app1705[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+         "ProxyIP":"launches.appsflyer.com",
          "ProxyPort":"80",
          "Info":"Proxy"
       },
