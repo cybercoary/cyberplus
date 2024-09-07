@@ -1,5 +1,5 @@
 {
-  "Version":"13",
+  "Version":"14",
   "Update":"https://raw.githubusercontent.com/cybercoary/cyberplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/cybercoari",
@@ -7,7 +7,7 @@
   "Servers": [
     {
          "ServerIP":"cybercoari.app.br", 
-         "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
+         "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
@@ -21,7 +21,7 @@
       {
          "Name":"CLARO",
          "ServerIP":"cdn.tlcomputingbrclaro.com.br", 
-         "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
+         "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
@@ -36,7 +36,7 @@
          "FLAG":"https://cybercoari.com.br/images/tim.png",
          "Payload":"HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=vivo.com.br;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
          "ServerIP":"cybercoari.app.br", 
-         "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
+         "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
