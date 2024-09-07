@@ -25,7 +25,7 @@
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
-         "FLAG":"https://i.ibb.co/QQzktS7/tim.png",
+         "FLAG":"https://cybercoari.com.br/images/claro.png",
          "Payload":"GET /app1705 HTTP/1.1[crlf]Host: cdn.tlcomputingbrclaro.com.br[lf]",
          "ProxyIP":"cdn.tlcomputingbrclaro.com.br",
          "ProxyPort":"80",
