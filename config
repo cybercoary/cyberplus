@@ -20,14 +20,14 @@
       },    
       {
          "Name":"TIM FRONT EXPIRADO 1",
-         "ServerIP":"cdn6.cdntlcomputingbr.shop", 
+         "ServerIP":"cdn.tlcomputingbrclaro.com.br", 
          "CheckUser": "http://cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
          "FLAG":"https://i.ibb.co/QQzktS7/tim.png",
-         "Payload":"PUT / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]PUT /app1705 HTTP/1.1[lf]Host: cdn6.cdntlcomputingbr.shop [lf]Backend: app1705 [lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-         "ProxyIP":"launches.appsflyer.com",
+         "Payload":"GET /app1705 HTTP/1.1[crlf]Host: cdn.tlcomputingbrclaro.com.br[lf]",
+         "ProxyIP":"cdn.tlcomputingbrclaro.com.br",
          "ProxyPort":"80",
          "Info":"Proxy"
       },
