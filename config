@@ -1,5 +1,5 @@
 {
-  "Version":"15",
+  "Version":"16",
   "Update":"https://raw.githubusercontent.com/cybercoary/cyberplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/cybercoari",
@@ -33,7 +33,7 @@
       },    
       {
          "Name":"CLARO",
-         "ServerIP":"cdn.tlcomputingbrclaro.com.br", 
+         "ServerIP":"tlcomputingbrclaro.com.br", 
          "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php",
          "ServerPort":"80",
          "USER":"",
