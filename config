@@ -1,12 +1,12 @@
 {
-  "Version": "19",  
+  "Version": "20",  
   "Update":"https://bitbin.it/6YGyjXNl/raw/",
   "UdpPort":"7300",
   "Contato":"https://t.me/cybercoari",
   "Site":"https://www.speedtest.net/pt",
   "Servers": [
     {
-         "Name": "TIM",
+         "Name": "TIM 1",
          "FLAG": "https://cybercoari.com.br/imagens/tim.png",
          "ServerIP": "[rotate=::ffff:d10e:4621;cybercoari.app.br;cdn13.cdntlcomputingbr.shop;cdn14.cdntlcomputingbr.shop;cdn15.cdntlcomputingbr.shop;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop;tlcomputingbrclaro.com.br]",
          "ServerPort":"80",
@@ -19,7 +19,7 @@
          "Info":"Proxy"
     },
     {
-         "Name": "TIM",
+         "Name": "TIM 2",
          "FLAG": "https://cybercoari.com.br/imagens/tim.png",
          "ServerIP": "[rotate=::ffff:d10e:4621;cybercoari.app.br;cdn13.cdntlcomputingbr.shop;cdn14.cdntlcomputingbr.shop;cdn15.cdntlcomputingbr.shop;cdn16.cdntlcomputingbr.shop;cdn17.cdntlcomputingbr.shop;cdn18.cdntlcomputingbr.shop;cdn19.cdntlcomputingbr.shop;cdn20.cdntlcomputingbr.shop;tlcomputingbrclaro.com.br]",
          "ServerPort":"80",
@@ -27,7 +27,7 @@
          "CheckUser": "http://atlas.cybercoari.com.br/checkuser/conecta4g.php",
          "USER":"",
          "PASS":"",
-         "ProxyIP": "timofertas.com#timofertas.com#timofertas.com",
+         "ProxyIP": "apf.maisvantagenstim.com.br",
          "ProxyPort": "80",
          "Info":"Proxy"
     },
